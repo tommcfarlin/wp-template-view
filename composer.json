@@ -17,8 +17,11 @@
     "config": {
       "preferred-install": "dist",
       "platform": {
-          "php": "8.0"
-      }
+          "php": "7.4.27"
+      },
+        "allow-plugins": {
+            "composer/installers": true
+        }
     },
     "repositories": [
       {
@@ -27,7 +30,7 @@
       }
     ],
     "require": {
-      "php": "8.0",
+      "php": "7.4.27",
       "composer/installers": "^1.4"
     },
     "require-dev": {
