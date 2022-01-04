@@ -4,7 +4,7 @@
  *
  * Easily see what custom templates your pages are using.
  *
- * PHP version 8.0.12
+ * PHP version 7.4.27
  *
  * @category WordPress_Plugin
  * @package  WPTemplateView
